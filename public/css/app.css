@@ -1,0 +1,58 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.shadow-sm img {
+    max-height: 200px;
+    height: 100%;
+}
+
+.img-more {
+    min-height: 100%!important;
+}
+
+.description-more {
+    padding-left: 20px!important;
+}
+
+.card-body.about {
+    height: 60vh;
+}
+
+.carousel-caption {
+    color: #000!important;
+}
+
+.carousel-item img {
+    background-size: contain;
+}
+
+.card.about {
+    height: 100%;
+}
+
+.about-block {
+    height: 40vh;
+    width: 100%;
+}
+
+.about-block img {
+    height: 200px;
+}
+
+.location-title {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.title-products {
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    list-style-type: none;
+}
